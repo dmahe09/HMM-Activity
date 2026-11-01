@@ -1,5 +1,5 @@
 # Modeling Human Activity States Using Hidden Markov Models
-### Formative 2 — Hidden Markov Models
+### Formative 2  Hidden Markov Models
 
 This repository infers hidden human-activity states (**standing, walking, jumping, still**)
 from smartphone accelerometer and gyroscope signals using a Hidden Markov Model.
