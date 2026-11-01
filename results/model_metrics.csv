@@ -1,0 +1,5 @@
+Activity,Num Samples,Sensitivity,Specificity,Overall Accuracy
+standing,30,1.0,0.976,0.982
+walking,30,1.0,1.0,1.0
+jumping,21,1.0,1.0,1.0
+still,31,0.935,1.0,0.982
